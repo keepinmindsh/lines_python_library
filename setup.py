@@ -7,7 +7,7 @@ setup(
     name="lines-pubsub", # Replace with your own username
     version="0.0.1",
     author="Howard Jeong",
-    author_email="1lines.maker@onelines.org",
+    author_email="¡",
     description="Lines Python Package",
     long_description=long_description,
     long_description_content_type="text/markdown",
